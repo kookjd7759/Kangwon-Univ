@@ -4,7 +4,7 @@
 
 ## Programming languages
 #### Five Project
-Grade : 485/500
+Grade : 485.00/500.00
 
 Graded by : KimSeongU
 ### HomeWork1. Ocaml 기초
