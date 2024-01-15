@@ -4,7 +4,7 @@
 
 ## Programming Languages
 #### first Homework
-Grade : 100.00 / 100.00
+Grade : 100/100
 
 Grade on : 2022-04-11 16:29
 
