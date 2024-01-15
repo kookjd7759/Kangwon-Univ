@@ -4,7 +4,7 @@
 
 ## Programming Languages
 #### Last Homework
-Grade : 85 / 100
+Grade : 85/100
 
 Grade on : 2022-06-14 16:30
 
