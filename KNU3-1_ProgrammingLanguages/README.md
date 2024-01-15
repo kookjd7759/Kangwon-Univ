@@ -4,7 +4,9 @@
 
 ## Programming languages
 #### Five Project
+Grade : 485/500
 
+Graded by : KimSeongU
 ### HomeWork1. Ocaml 기초
 ### HomeWork2. Ocaml 연산(1)
 ### HomeWork3. Ocaml 연산(2) 및 데이터 구조
