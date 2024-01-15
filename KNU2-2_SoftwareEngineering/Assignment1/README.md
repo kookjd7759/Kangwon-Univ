@@ -3,14 +3,14 @@
 2nd year 2nd semester
 
 ## Software engineering
-#### Second Project
+#### First Assignment
 Grade : 20/25
 
 Grade on : 2021-12-13 06:06
 
 Graded by	: Se Jin Kwon
 
-### 비디오 대여 프로그램
+### Video Rental Program
 
 
 - 기초 요구 사항
