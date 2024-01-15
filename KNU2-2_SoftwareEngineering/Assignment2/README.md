@@ -3,14 +3,14 @@
 2nd year 2nd semester
 
 ## Software engineering
-#### Second Project
+#### Second Assignment
 Grade : 35/35
 
 Grade on : 2021-12-13 06:06
 
 Graded by	: Se Jin Kwon
 
-### Flash Memory Mapphing Algorithm
+### Implement Flash Memory Mapphing Algorithm
 
 
 - 플래시 메모리 구성
