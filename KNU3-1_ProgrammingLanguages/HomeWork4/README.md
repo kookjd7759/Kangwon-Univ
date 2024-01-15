@@ -4,7 +4,7 @@
 
 ## Programming Languages
 #### Fourth Homework
-Grade : 100.00 / 100.00
+Grade : 100/100
 
 Grade on : 2022-05-26 16:25
 
