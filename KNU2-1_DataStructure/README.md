@@ -2,7 +2,7 @@
 
 2nd year 1nd semester
 
-## Data Structure
+## Data structure
 #### Five Project
 Grade : 500/500
 
