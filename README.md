@@ -1,6 +1,7 @@
 # Kangwon national university
 This repository has 14 project derived from 5 main class when I belonged in Kangwon Univ.
-<img width="10%" src=https://github.com/kookjd7759/Kangwon-Univ/assets/67672017/63bd214b-6a3a-419b-85b9-cb6f499f0d34/>
+
+<img width="15%" src=https://github.com/kookjd7759/Kangwon-Univ/assets/67672017/63bd214b-6a3a-419b-85b9-cb6f499f0d34/>
 
 ## Overview
 ### Computer graphics
