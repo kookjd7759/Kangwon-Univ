@@ -1,5 +1,5 @@
 # Kangwon national university
-This repository has 14 project derived from 5 main class when I belonged in Kangwon Univ.
+14 project derived from 5 main class when I belonged in Kangwon Univ.
 
 ## Overview
 ### Computer graphics
