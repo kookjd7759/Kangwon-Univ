@@ -12,5 +12,5 @@ Graded by	: 장한길
 
 ### Computer Vision practice
 
-- practice 1:
+- practice 1, SIFT:
   * 주어진 코드를 활용하여 “cliff.bmp” 파일을 흑백으로 읽은 뒤,SIFT 기술자 알고리즘을 구현하여 결과 이미지를 출력하세요
