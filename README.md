@@ -1,5 +1,5 @@
 # Kangwon national university
-14 project derived from 5 main class when I belonged in Kangwon Univ.
+24 project derived from 6 main class when I belonged in Kangwon Univ.
 
 ## Overview
 ### Computer graphics
