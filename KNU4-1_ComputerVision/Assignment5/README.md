@@ -12,6 +12,6 @@ Graded by	: 장한길
 
 ### Computer Vision practice
 
-- practice 1:
+- practice 1, Moravec:
   * 주어진 코드를 활용하여 “bucks.jpg” 파일을 흑백으로 읽은 뒤,Moravec Algorithm을 구현하세요.
   
