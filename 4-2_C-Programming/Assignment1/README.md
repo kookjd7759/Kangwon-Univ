@@ -13,4 +13,4 @@ Graded by	: 용주환
 ### C-Programming practice
 
 - Problem 1:
-  * Visual Studio에서 C 언어 개발 환경을 설정하고 Hello World 프로그램을 작성하여 실행한다.
+  * 비주얼 튜디오 2022 설치, ‘Hello World’ 프로젝트 작성 및 실행하기

@@ -1,5 +1,5 @@
 # Kangwon national university
-24 project derived from 6 main class when I belonged in Kangwon Univ.
+27 project derived from 7 main class when I belonged in Kangwon Univ.
 
 ## Overview
 ### Computer graphics
@@ -51,4 +51,4 @@
  - Strings
  - Structures and Enumerations
  - File Input/Output
-
+ - Dynamic Memory and Preprocessor
