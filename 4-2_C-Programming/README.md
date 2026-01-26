@@ -8,16 +8,16 @@ Grade : 89.5/100
 
 Graded by : 최황규
 
-### 1. Introduction to Programming
-### 2. Basics (Input & Output)
-### 3. Variables and Data Types
-### 4. Expressions and Operators
-### 5. Conditional Statements
-### 6. Loops
-### 7. Arrays
-### 8. Functions
-### 9. Pointers
-### 10. Strings
-### 11. Structures and Enumerations
-### 12. File Input/Output
-### 13. Dynamic Memory and Preprocessor
+### Assignment1. Introduction to Programming
+### Assignment2. Basics (Input & Output)
+### Assignment3. Variables and Data Types
+### Assignment4. Expressions and Operators
+### Assignment5. Conditional Statements
+### Assignment6. Loops
+### Assignment7. Arrays
+### Assignment8. Functions
+### Assignment9. Pointers
+### Assignment10. Strings
+### Assignment11. Structures and Enumerations
+### Assignment12. File Input/Output
+### Assignment13. Dynamic Memory and Preprocessor
