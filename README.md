@@ -38,4 +38,17 @@
  - Feature Distance
  - Least Square & RANSAC
 
+### C-Programming
+ - Introduction to Programming
+ - Basics (Input & Output)
+ - Variables and Data Types
+ - Expressions and Operators
+ - Conditional Statements
+ - Loops
+ - Arrays
+ - Functions
+ - Pointers
+ - Strings
+ - Structures and Enumerations
+ - File Input/Output
 
