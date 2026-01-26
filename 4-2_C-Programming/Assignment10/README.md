@@ -3,7 +3,7 @@
 4nd year 2nd semester
 
 ## C-Programming
-#### Assignment 1
+#### Assignment 10
 Grade : 100/100
 
 Grade on : 2025-12-01 03:52
@@ -13,16 +13,16 @@ Graded by	: 용주환
 ### C-Programming practice
 
 - Problem 1:
-  * 문자 배열처리 1
+  * 문자열에서 연속된 공백을 제거해 출력한다.
 
 - Problem 2:
-  * 문자 배열처리 2
+  * 입력된 문자열이 대문자·소문자·숫자를 모두 포함하는지 검사한다.
 
 - Problem 3:
-  * 문자 배열처리 3
+  * 문자열 오른쪽 공백을 제거하는 함수를 구현한다.
 
 - Problem 4:
-  * 문자 배열처리 4
+  * 입력된 문자열이 회문인지 판별한다.
 
 - Problem 5:
-  * 텍스트 암호화
+  * XOR 연산을 이용해 문자열을 암호화·복호화한다.

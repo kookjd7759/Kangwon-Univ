@@ -13,4 +13,4 @@ Graded by	: 용주환
 ### C-Programming practice
 
 - Problem 1:
-  * 비주얼 튜디오 2022 설치, ‘Hello World’ 프로젝트 작성 및 실행하기
+  * Visual Studio를 설치하고 Hello World 프로그램을 작성·실행한다.
