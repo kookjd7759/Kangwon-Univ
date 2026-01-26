@@ -27,13 +27,15 @@
 - MLP 구현을 통한 MNIST 숫자 필기체 인식
 
 ### Computer Vision
- - Implementation of binarization & invertion
- - Implementation of Dissolve & HPF & LPF
- - Implementation of Forward Geometric Transformation & Inverse Geometric Transformation
- - Implementation of Weight Pyramid & Sobel Mask
- - Implementation of Moravec
- - Implementation of LOG(Laplacian Of Gaussian)
- - Implementation of Harris Corner Algorithm
- - Implementation of SIFT
- - Implementation of Feature Distance
- - Implementation of Least Square & RANSAC
+ - binarization & invertion
+ - Dissolve & HPF & LPF
+ - Forward Geometric Transformation & Inverse Geometric Transformation
+ - Weight Pyramid & Sobel Mask
+ - Moravec
+ - LOG(Laplacian Of Gaussian)
+ - Harris Corner Algorithm
+ - SIFT
+ - Feature Distance
+ - Least Square & RANSAC
+
+
