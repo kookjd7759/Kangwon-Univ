@@ -12,5 +12,5 @@ Graded by	: 용주환
 
 ### C-Programming practice
 
-- Problem 1: 
+- Problem 1:
   * Visual Studio에서 C 언어 개발 환경을 설정하고 Hello World 프로그램을 작성하여 실행한다.
