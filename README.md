@@ -1,5 +1,5 @@
 # Kangwon national university
-40 project derived from 8 main class when I belonged in Kangwon Univ.
+40 projects completed across 8 major courses at Kangwon National University
 
 ## Overview
 ### Computer graphics
